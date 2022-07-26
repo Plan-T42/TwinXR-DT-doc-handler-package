@@ -2,20 +2,23 @@
     "name": "com.Aalto-AIIC.TwinXR-DTdoc-handler",
     "version": "1.0.0",
     "displayName": "DT-doc handler for TwinXR",
-    "description": "This is a package for ",
+    "description": "This is a Unity package for ",
     "unity": "2020.3.8",
     "unityRelease": "f1",
-    "documentationUrl": "https://example.com/",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
+    "documentationUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/README.md",
+    "changelogUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/README.md",
+    "licensesUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/LICENSE",
     "dependencies": {
       "com.[company-name].some-package": "1.0.0",
       "com.[company-name].other-package": "2.0.0"
    },
    "keywords": [
+      "TwinXR",
+      "HoloCrane",
+      "Twinbase",
       "Ontology",
-      "Networking",
-      "Twinbase"
+      "Digital Twins",
+      "Mixed Reality"
     ],
     "author": {
       "name": "Xinyi Tu (Joyce)",
