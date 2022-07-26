@@ -1,0 +1,26 @@
+{
+    "name": "com.Aalto-AIIC.TwinXR-DTdoc-handler",
+    "version": "1.0.0",
+    "displayName": "DT-doc handler for TwinXR",
+    "description": "This is a package for ",
+    "unity": "2020.3.8",
+    "unityRelease": "f1",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+      "com.[company-name].some-package": "1.0.0",
+      "com.[company-name].other-package": "2.0.0"
+   },
+   "keywords": [
+      "Ontology",
+      "Networking",
+      "Twinbase"
+    ],
+    "author": {
+      "name": "Xinyi Tu (Joyce)",
+      "email": "xinyi.tu@aalto.fi",
+      "url": "https://people.aalto.fi/xinyi.tu"
+    }
+  }
+  
