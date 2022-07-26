@@ -6,6 +6,7 @@
     "unity": "2020.3",
     "unityRelease": "8f1",
     "documentationUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/README.md",
+    "changelogUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/CHANGELOG.md",
     "licensesUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/LICENSE",
     "dependencies": {
       "com.[company-name].some-package": "1.0.0",

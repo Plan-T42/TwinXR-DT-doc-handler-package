@@ -1,0 +1,9 @@
+{
+  "name": "TwinXR-DTdoc-handler.Tests",
+  "references": [
+    "TwinXR-DTdoc-handler"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

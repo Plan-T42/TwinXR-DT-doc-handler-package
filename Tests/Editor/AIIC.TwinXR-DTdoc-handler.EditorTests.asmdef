@@ -1,0 +1,13 @@
+{
+  "name": "TwinXR-DTdoc-handler.Editor.Tests",
+  "references": [
+    "TwinXR-DTdoc-handler.Editor",
+    "TwinXR-DTdoc-handler"
+  ],
+  "optionalUnityReferences": [
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
