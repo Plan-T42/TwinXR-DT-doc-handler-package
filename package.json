@@ -2,7 +2,7 @@
     "name": "com.AIIC.TwinXR-DTdoc-handler",
     "version": "1.0.0",
     "displayName": "TwinXR DT-doc handler",
-    "description": "This is a Unity package for DT-doc handler for the TwinXR method implementation, by enabling mapping, flowing, and conversion of digital twin data between XR applications and DT documents on the Twinbase server.",
+    "description": "This is a Unity package for DT-doc handler for the TwinXR method implementation, by enabling bi-directional flow and conversion of digital twin data between XR applications and DT documents on the Twinbase server.",
     "unity": "2020.3",
     "unityRelease": "8f1",
     "documentationUrl": "https://github.com/Plan-T42/TwinXR_DT-doc-handler_package/blob/main/README.md",
