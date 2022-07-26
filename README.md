@@ -1,1 +1,1 @@
-# TwinXR_DT-doc-handler_package
+# TwinXR DT-doc handler Unity package
